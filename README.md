@@ -13,7 +13,7 @@
 * Student 8
 * Student 9
 * Student 10
-* Student 11
+* HUANG JINGXI: http://jamiexixi.github.io/
 * Student 12
 * Student 13
 * Student 14
