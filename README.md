@@ -12,7 +12,7 @@
 * Carmen Chan https://chlorella.github.io/
 * Student 8
 * Student 9
-* Student 10
+* Jingxi HUANG https://jamiexixi.github.io/
 * Chung Yin: http://chungyin.github.io/
 * Roy Tang: http://Roytangrb.github.io/
 * Student 13
